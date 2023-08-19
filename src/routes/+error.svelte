@@ -4,7 +4,7 @@
 
 	// import from svelte
 	import { page } from "$app/stores";
-	import ButtonLink from "$atoms/ButtonLink.svelte";
+	import ButtonLink from "$components/ButtonLink.svelte";
 </script>
 
 <template lang="pug">
