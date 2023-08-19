@@ -1,0 +1,110 @@
+[
+	{
+		"displayMajor": "A",
+		"idMajor": "A",
+		"displayRelativeMinor": "F♯m",
+		"idMinor": "Fsm",
+		"displayDiminished": "G♯°",
+		"idDiminished": "Gs-dim",
+		"keySignature": "♯♯♯"
+	},
+	{
+		"displayMajor": "E",
+		"idMajor": "E",
+		"displayRelativeMinor": "C♯m",
+		"idMinor": "Csm",
+		"displayDiminished": "D♯°",
+		"idDiminished": "Ds-dim",
+		"keySignature": "♯♯♯♯"
+	},
+	{
+		"displayMajor": "B",
+		"idMajor": "B",
+		"displayRelativeMinor": "G♯m",
+		"idMinor": "Gsm",
+		"displayDiminished": "A♯°",
+		"idDiminished": "As-dim",
+		"keySignature": "♯♯♯♯♯"
+	},
+	{
+		"displayMajor": "G♭",
+		"idMajor": "Gb",
+		"displayRelativeMinor": "E♭m",
+		"idMinor": "Ebm",
+		"displayDiminished": "F♯°",
+		"idDiminished": "Fs-dim",
+		"keySignature": "♯♯♯♯♯♯"
+	},
+	{
+		"displayMajor": "D♭",
+		"idMajor": "Db",
+		"displayRelativeMinor": "B♭m",
+		"idMinor": "Bbm",
+		"displayDiminished": "C°",
+		"idDiminished": "C-dim",
+		"keySignature": "♭♭♭♭♭"
+	},
+	{
+		"displayMajor": "A♭",
+		"idMajor": "Ab",
+		"displayRelativeMinor": "Fm",
+		"idMinor": "Fm",
+		"displayDiminished": "G°",
+		"idDiminished": "G-dim",
+		"keySignature": "♭♭♭♭"
+	},
+	{
+		"displayMajor": "E♭",
+		"idMajor": "Eb",
+		"displayRelativeMinor": "Cm",
+		"idMinor": "Cm",
+		"displayDiminished": "D°",
+		"idDiminished": "D-dim",
+		"keySignature": "♭♭♭"
+	},
+	{
+		"displayMajor": "B♭",
+		"idMajor": "Bb",
+		"displayRelativeMinor": "Gm",
+		"idMinor": "Gm",
+		"displayDiminished": "A°",
+		"idDiminished": "A-dim",
+		"keySignature": "♭♭"
+	},
+	{
+		"displayMajor": "F",
+		"idMajor": "F",
+		"displayRelativeMinor": "Dm",
+		"idMinor": "Dm",
+		"displayDiminished": "E°",
+		"idDiminished": "E-dim",
+		"keySignature": "♭"
+	},
+	{
+		"displayMajor": "C",
+		"idMajor": "C",
+		"displayRelativeMinor": "Am",
+		"idMinor": "Am",
+		"displayDiminished": "B°",
+		"idDiminished": "B-dim",
+		"keySignature": ""
+	},
+	{
+		"displayMajor": "G",
+		"idMajor": "G",
+		"displayRelativeMinor": "Em",
+		"idMinor": "Em",
+		"displayDiminished": "F°",
+		"idDiminished": "F-dim",
+		"keySignature": "♯"
+	},
+	{
+		"displayMajor": "D",
+		"idMajor": "D",
+		"displayRelativeMinor": "Bm",
+		"idMinor": "Bm",
+		"displayDiminished": "C♯°",
+		"idDiminished": "Cs-dim",
+		"keySignature": "♯♯"
+	}
+]
