@@ -1,15 +1,13 @@
 {
 	"author": "Kevin Peckham",
-	"name": "lj-sveltekit-ts-tailwind-pug-starter",
-	"version": "1.0.9",
+	"name": "svelte-circle-of-fifths",
+	"version": "0.0.1",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/lightning-jar/svelte-typescript-tailwind-pug-starter"
+		"url": "https://github.com/kevin-peckham/svelte-circle-of-fifths"
 	},
 	"devDependencies": {
-		"@playwright/test": "^1.37.1",
 		"@prettier/plugin-pug": "^2.5.2",
-		"@sveltejs/adapter-auto": "^2.1.0",
 		"@sveltejs/adapter-vercel": "^3.0.3",
 		"@sveltejs/kit": "^1.22.6",
 		"@typescript-eslint/eslint-plugin": "^5.62.0",
@@ -31,14 +29,13 @@
 		"vite": "^4.4.9",
 		"vitest": "^0.31.4"
 	},
-	"description": "A Svelte, Typescript, Tailwindcss, & Pug starter template",
+	"description": "A Circle of Fifths component for Svelte",
 	"homepage": "https://skinnypug.dev",
 	"keywords": [
+		"Circle of Fifths",
 		"Svelte",
-		"Typescript",
 		"TailwindCSS",
-		"Pug",
-		"Starter"
+		"Pug"
 	],
 	"license": "MIT",
 	"private": true,
@@ -46,7 +43,6 @@
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
-		"test": "playwright test",
 		"test:unit": "vitest",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
